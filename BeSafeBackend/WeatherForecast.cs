@@ -1,4 +1,4 @@
-namespace BeSafeBackend
+amespace BeSafeBackend
 {
     public class WeatherForecast
     {
